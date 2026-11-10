@@ -1,0 +1,37 @@
+Selected content-method adaptations
+
+The editorial instructions adapt selected material-research, quality-gate and
+adversarial-gate methods from MarchTalk/ai-content-skills, commit
+6f01d71984fe8f7adb3b5dd19af3fbeab34f368e:
+https://github.com/MarchTalk/ai-content-skills
+Copyright (c) 2026 隐拾三月 (March)
+
+The editorial instructions adapt selected depth/conditions/counterexample methods
+from chengkj99/kj-skills, content-creator/references/深度论证框架.md, commit
+c23fe79cda0aa601343f4251539b9012d0617398:
+https://github.com/chengkj99/kj-skills
+Copyright (c) 2026 chengkj99
+
+Both projects license those methods under the MIT License below. This product
+does not bundle either complete skill collection, their installers, personas,
+media, or examples. Adaptations retain this product's four content genres,
+source boundaries and continuous talking-head output. No endorsement is implied.
+DBSkill was studied only; its skill text and knowledge base are not bundled.
+
+MIT License
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

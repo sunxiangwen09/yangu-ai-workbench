@@ -1,0 +1,12 @@
+# Local preview only. Set operator to the local preview identity.
+WORKBENCH_ADMIN_EMAIL="seedy@sites.test"
+# Generate a random 32-byte key encoded as 64 lowercase hexadecimal characters.
+# Never reuse a development key in production. Keep the actual .dev.vars ignored.
+WORKBENCH_SECRET_KEY=""
+# Production values live in Sites runtime settings, not this file.
+# TikHub and Bailian keys are entered in the private operator window and encrypted in D1.
+# Optional dedicated platform-session executor (not implemented or provisioned by this Site).
+# Keep both empty until its ownership, QR, expiry and disconnect checks pass.
+# Customers never enter these values. HTTPS origin only; shared secret at least 32 characters.
+PLATFORM_SESSION_SERVICE_URL=""
+PLATFORM_SESSION_SERVICE_KEY=""
